@@ -7,7 +7,7 @@ Let's start with what tags I actually use, given the huge number of them.
 ## Tag Priority
 
 **Note:** the tag names used in this section are format-neutral concepts. Their actual representation depends on the metadata format.  
-For example, `Album Artist` corresponds to `ALBUMARTIST` tag in **Vorbis Comment (FLAC)**, `aART` atom in **iTunes MP4 (ALAC)**, and `TPE2` frame in **ID3v2 (MP3)**.
+For example, `Album Artist` corresponds to `ALBUMARTIST` tag in **Vorbis Comment (FLAC)**, `aART` atom in **iTunes MP4 (ALAC, AAC)**, and `TPE2` frame in **ID3v2 (MP3)**.
 
 ### Main Tags
 
@@ -247,13 +247,13 @@ The final result looks like this:
 
 **Disclaimer:** these tables document the mappings used by this library. Some fields use native format-specific frames or atoms, while others are stored as freeform metadata fields. They should not be interpreted as a universal mapping standard for all tagging software.
 
-**Reference for tag mappings:** [HydrogenAudio](https://wiki.hydrogenaudio.org/index.php?title=Tag_Mapping), [Mp3tag](https://docs.mp3tag.de/mapping/), , [MusicBrainz](https://picard-docs.musicbrainz.org/en/latest/appendices/tag_mapping.html).
+**Reference for tag mappings:** [HydrogenAudio](https://wiki.hydrogenaudio.org/index.php?title=Tag_Mapping), [Mp3tag](https://docs.mp3tag.de/mapping/), [MusicBrainz](https://picard-docs.musicbrainz.org/en/latest/appendices/tag_mapping.html).
 
 **Command-line utilities for inspecting native metadata fields, frames, and atoms:**
 
 - All formats: [exiftool](https://exiftool.org/)
 - FLAC: [metaflac](https://xiph.org/flac/documentation_tools.html)
-- iTunes MP4 (ALAC/AAC): [atomicparsley](https://github.com/wez/atomicparsley)
+- iTunes MP4 (ALAC, AAC): [atomicparsley](https://github.com/wez/atomicparsley)
 
 **Format-specific notes:**
 
@@ -270,7 +270,7 @@ The final result looks like this:
   <thead>
     <tr>
       <th>Tag name</th>
-      <th>Vorbis Comment (FLAC)</th>
+      <th>Vorbis Comment (FLAC, Opus)</th>
       <th>iTunes MP4 (ALAC, AAC)</th>
       <th>ID3v2.3 (MP3)</th>
       <th>ID3v2.4 (MP3)</th>
@@ -349,7 +349,7 @@ The final result looks like this:
       <th>Tag name</th>
       <th>Support in Poweramp</th>
       <th>Support in foobar2000</th>
-      <th>Vorbis Comment (FLAC)</th>
+      <th>Vorbis Comment (FLAC, Opus)</th>
       <th>iTunes MP4 (ALAC, AAC)</th>
       <th>ID3v2.3 (MP3)</th>
       <th>ID3v2.4 (MP3)</th>
@@ -415,7 +415,7 @@ The final result looks like this:
       <th>Tag name</th>
       <th>Support in Poweramp</th>
       <th>Support in foobar2000</th>
-      <th>Vorbis Comment (FLAC)</th>
+      <th>Vorbis Comment (FLAC, Opus)</th>
       <th>iTunes MP4 (ALAC, AAC)</th>
       <th>ID3v2.3 (MP3)</th>
       <th>ID3v2.4 (MP3)</th>

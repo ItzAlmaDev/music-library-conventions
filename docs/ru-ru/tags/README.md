@@ -7,7 +7,7 @@
 ## Разделение по приоритетам
 
 **Примечание:** названия тегов, используемые в этом разделе, являются абстрактными концептами. Их фактическая реализация зависит от формата метаданных.  
-Например, `Album Artist` соответствует тегу `ALBUMARTIST` в **Vorbis Comment (FLAC)**, атому `aART` в **iTunes MP4 (ALAC)**, и `TPE2` фрейму в **ID3v2 (MP3)**.
+Например, `Album Artist` соответствует тегу `ALBUMARTIST` в **Vorbis Comment (FLAC, Opus)**, атому `aART` в **iTunes MP4 (ALAC, AAC)**, и `TPE2` фрейму в **ID3v2 (MP3)**.
 
 ### Основные теги
 
@@ -253,7 +253,7 @@
 
 - Все форматы: [exiftool](https://exiftool.org/)
 - FLAC: [metaflac](https://xiph.org/flac/documentation_tools.html)
-- iTunes MP4 (ALAC/AAC): [atomicparsley](https://github.com/wez/atomicparsley)
+- iTunes MP4 (ALAC, AAC): [atomicparsley](https://github.com/wez/atomicparsley)
 
 **Заметки к форматам:**
 
@@ -270,7 +270,7 @@
   <thead>
     <tr>
       <th>Название тега</th>
-      <th>Vorbis Comment (FLAC)</th>
+      <th>Vorbis Comment (FLAC, Opus)</th>
       <th>iTunes MP4 (ALAC, AAC)</th>
       <th>ID3v2.3 (MP3)</th>
       <th>ID3v2.4 (MP3)</th>
@@ -349,7 +349,7 @@
       <th>Название тега</th>
       <th>Поддержка в Poweramp</th>
       <th>Поддержка в foobar2000</th>
-      <th>Vorbis Comment (FLAC)</th>
+      <th>Vorbis Comment (FLAC, Opus)</th>
       <th>iTunes MP4 (ALAC, AAC)</th>
       <th>ID3v2.3 (MP3)</th>
       <th>ID3v2.4 (MP3)</th>
@@ -415,7 +415,7 @@
       <th>Название тега</th>
       <th>Поддержка в Poweramp</th>
       <th>Поддержка в foobar2000</th>
-      <th>Vorbis Comment (FLAC)</th>
+      <th>Vorbis Comment (FLAC, Opus)</th>
       <th>iTunes MP4 (ALAC, AAC)</th>
       <th>ID3v2.3 (MP3)</th>
       <th>ID3v2.4 (MP3)</th>

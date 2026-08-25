@@ -1,9 +1,9 @@
 <!-- markdownlint-disable MD041 -->
 ## Music library conventions
 
-I finally decided to write down these conventions, which are about how I organize and maintain my music library to keep it **consistent**.
+These conventions define how I organize and maintain my music library, with the goal of keeping it **consistent**.
 
-At first, I intended to document only with tags, but decided to expand the scope and standardize the library as a whole, including its structure, naming rules, covers, booklets, and so on.
+I originally intended to document only my tagging rules, but decided to expand the scope and standardize the library as a whole, including its structure, naming conventions, covers, booklets, and other related items.
 
 [Read document](/en-us/ 'Table of Contents')
 
@@ -17,9 +17,9 @@ P.S. I use the following audio players: foobar2000 (PC) and Poweramp (Android). 
 
 ## Правила оформления музыкальной библиотеки
 
-Я наконец-таки решил сформулировать эти конвенции, которые определяют, как я организую и поддерживаю свою музыкальную библиотеку, чтобы она оставалась **согласованной**.
+Эти конвенции определяют, как я организую свою музыкальную библиотеку, чтобы поддерживать в ней **единообразие**.
 
-Изначально я хотел разобраться только с тегами, но решил расширить область применения и стандартизировать библиотеку в целом, включая ее структуру, наименования, обложки, буклеты и так далее.
+Изначально я хотел описать только правила теггирования аудиофайлов, но решил стандартизировать библиотеку в целом, включая ее структуру, правила именования, обложки, буклеты и прочие связанные элементы.
 
 [Читать документ](/ru-ru/ 'Оглавление')
 
@@ -32,4 +32,5 @@ P.S. Я использую следующие плееры: foobar2000 (ПК) и
 ---
 
 Content is dedicated to the public domain under the [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/).  
-No rights reserved.
+No rights reserved.  
+<https://arthousedotexe.github.io/music-library-conventions/#/>

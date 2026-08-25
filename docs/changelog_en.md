@@ -2,6 +2,16 @@
 
 # Changelog <!-- {docsify-ignore-all} -->
 
+## 2026-08-25
+
+### Changed
+
+- In the [Tags](/ru-ru/tags/) section, a mention of `Opus` has been added;
+- Reformulated content on the main page of the website;
+- Increased offset between text and underline in links to improve readability.
+
+---
+
 ## 2026-08-19
 
 ### Changed
@@ -16,7 +26,7 @@
 
 - Formulated the second edition of the music library conventions;
 - Completed a comprehensive stylistic revision of all documentation sections to improve precision and phrasing quality;
-- Added Windows-reserved device names to the list of forbidden characters in filenames (section [Library Structure](/en-us/library-structure/));
+- Added Windows-reserved device names to the list of forbidden characters in filenames ([Library Structure](/en-us/library-structure/) section);
 - Significantly improved the [Tags](/en-us/tags/) section:
   - Clarified specifics of the `ID3v2.3` format;
   - Added references to other tag mapping tables: HydrogenAudio, Mp3tag, and MusicBrainz;
