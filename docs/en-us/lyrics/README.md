@@ -6,24 +6,18 @@ Lyrics files are located in the same folder as the audio files, and use the same
 
 For example: next to a song named `1.03. Evening calm,Somewhere,Fireworks.flac` there will be a lyrics file `1.03. Evening calm,Somewhere,Fireworks.lrc`.
 
+`UTF-8` encoding is used for all lyrics files.
+
 An lyrics file consists of two main parts:
 
-- Tags at the beginning of the file, enclosed in square brackets;
+- ID Tags at the beginning of the file, enclosed in square brackets;
 - Lyrics content.
 
-## .lrc Tags
+More details about ID tags and lyrics files can be read [here](https://en.wikipedia.org/wiki/LRC_(file_format)).
 
-More details about tags can be read [here](https://en.wikipedia.org/wiki/LRC_(file_format)).
+## ID Tags
 
-I use the following tags: `ti`, `ar`, `al`, `length`.  
-For example:
-
-```lrc
-[ti: Nobody's Fool]
-[ar: Avril Lavigne]
-[al: Let Go]
-[length: 03:57]
-```
+I refused to use these tags.
 
 ## Lyrics Content
 
@@ -33,8 +27,6 @@ For consistency, I avoid the following characters:
 - Control ASCII characters;
 - Non-breaking spaces;
 - Other nonstandard or unsupported characters that cause parsing or rendering issues in the players I use.
-
-Everything else is allowed.
 
 I use synchronized lyrics, which look like this:
 

@@ -2,11 +2,27 @@
 
 # Changelog <!-- {docsify-ignore-all} -->
 
+## 2026-09-09
+
+### Added
+
+- Added information about the encoding used for lyrics files (`UTF-8`) in the [Lyrics](/en-us/lyrics/) section.
+
+### Removed
+
+- Removed the example with ID tags in the [Lyrics](/en-us/lyrics/) section due to the refusal to use them.
+
+### Fixed
+
+- Minor corrections in the Changelog.
+
+---
+
 ## 2026-08-25
 
 ### Changed
 
-- In the [Tags](/ru-ru/tags/) section, a mention of `Opus` has been added;
+- In the [Tags](/en-us/tags/) section, a mention of `Opus` has been added;
 - Reformulated content on the main page of the website;
 - Increased offset between text and underline in links to improve readability.
 
@@ -91,12 +107,12 @@
 ### Added
 
 - Formulated the first edition of the music library conventions;
-- Added the **Library Structure** section: regulated directory hierarchy and filename formats;
-- Added the **Audio Formats** section: defined the primary lossless format, added a section on checksums;
-- Added the **Lyrics** section: standardized formats for synchronized `.lrc` lyrics;
-- Added the **Covers and Booklets** section: defined requirements for covers and booklets and reasons for declining animated covers;
-- Added the **Tags** section: implemented a tag priority system and created tag mapping tables for the following formats: `Vorbis Comment`, `iTunes MP4`, `ID3v2.3`, and `ID3v2.4`;
-- Added the **Indexing** section: standardized the content of the release index file.
+- Added the [Library Structure](/en-us/library-structure/) section: regulated directory hierarchy and filename formats;
+- Added the [Audio Formats](/en-us/audio-formats/) section: defined the primary lossless format, added a section on checksums;
+- Added the [Lyrics](/en-us/lyrics/) section: standardized formats for synchronized `.lrc` lyrics;
+- Added the [Covers and Booklets](/en-us/covers-and-booklets/) section: defined requirements for covers and booklets and reasons for declining animated covers;
+- Added the [Tags](/en-us/tags/) section: implemented a tag priority system and created tag mapping tables for the following formats: `Vorbis Comment`, `iTunes MP4`, `ID3v2.3`, and `ID3v2.4`;
+- Added the [Indexing](/en-us/indexing/) section: standardized the content of the release index file.
 
 ### Fixed
 
