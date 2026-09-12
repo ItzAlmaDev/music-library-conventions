@@ -7,6 +7,7 @@
 ### Added
 
 - `Arranger` tag added to Extended Tags [Tags](/en-us/tags/) section.
+- `Composer Sort` tag added to Specialized Tags [Tags](/en-us/tags/) section.
 
 ---
 

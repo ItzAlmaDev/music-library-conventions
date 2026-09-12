@@ -116,6 +116,9 @@
 - `Compilation` - флаг, который указывает, что трек является частью сборника;  
   **Сортировка по данному тегу:** Poweramp (-), foobar2000 (необходима настройка паттерна)
 
+- `Composer Sort` - аналогично тегам `Album Artist Sort` и `Artist Sort`, но он отвечает за правило сортировки композитора трека;  
+  **Сортировка по данному тегу:** Poweramp (-), foobar2000 (+) (необходима настройка паттерна)
+
 - `Copyright` - информация об авторском праве на релиз;  
   **Пример:** `A Polydor Records Release / An Interscope Records Release in the USA; ℗ 2021 Lana Del Rey, under exclusive licence to Universal Music Operations Limited`.  
   **Отображение:** Poweramp (-), foobar2000 (+)
@@ -489,6 +492,14 @@
       <td><code>COMPILATION</code></td>
       <td><code>cpil</code></td>
       <td colspan="2"><code>TCMP</code></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold">Composer Sort</td>
+      <td>-</td>
+      <td>+</td>
+      <td><code>COMPOSERSORT</code></td>
+      <td><code>soco</code></td>
+      <td colspan="2"><code>TSOC</code></td>
     </tr>
     <tr>
       <td style="font-weight: bold">Copyright</td>

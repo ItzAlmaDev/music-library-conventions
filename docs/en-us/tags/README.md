@@ -116,6 +116,9 @@ How it will look like:
 - `Compilation` — a flag indicating that a track is part of a compilation;  
   **Sorting by this tag:** Poweramp (-), foobar2000 (pattern setup required)
 
+- `Composer Sort` - similar to the `Album Artist Sort` and `Artist Sort` tags, but controls how the track composer is sorted;  
+  **Sorting by this tag:** Poweramp (-), foobar2000 (+) (pattern setup required)
+
 - `Copyright` — copyright information for the release;  
   **Example:** `A Polydor Records Release / An Interscope Records Release in the USA; ℗ 2021 Lana Del Rey, under exclusive licence to Universal Music Operations Limited`.  
   **Display:** Poweramp (-), foobar2000 (+)  
@@ -489,6 +492,14 @@ The final result looks like this:
       <td><code>COMPILATION</code></td>
       <td><code>cpil</code></td>
       <td colspan="2"><code>TCMP</code></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold">Composer Sort</td>
+      <td>-</td>
+      <td>+</td>
+      <td><code>COMPOSERSORT</code></td>
+      <td><code>soco</code></td>
+      <td colspan="2"><code>TSOC</code></td>
     </tr>
     <tr>
       <td style="font-weight: bold">Copyright</td>
