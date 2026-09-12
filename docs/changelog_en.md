@@ -2,6 +2,16 @@
 
 # Changelog <!-- {docsify-ignore-all} -->
 
+## 2026-09-12
+
+### Fixed
+
+- Date format changed from `YYYY-MM-DD` to `DD-MM-YYYY` in the Russian version of Changelog;
+- Minor corrections in [Covers, booklets](/ru-ru/covers-and-booklets/) and [Indexing](/ru-ru/indexing/) sections;
+- Other minor correction in the Changelog.
+
+---
+
 ## 2026-09-09
 
 ### Added
@@ -40,7 +50,6 @@
 
 ### Changed
 
-- Formulated the second edition of the music library conventions;
 - Completed a comprehensive stylistic revision of all documentation sections to improve precision and phrasing quality;
 - Added Windows-reserved device names to the list of forbidden characters in filenames ([Library Structure](/en-us/library-structure/) section);
 - Significantly improved the [Tags](/en-us/tags/) section:
@@ -106,7 +115,6 @@
 
 ### Added
 
-- Formulated the first edition of the music library conventions;
 - Added the [Library Structure](/en-us/library-structure/) section: regulated directory hierarchy and filename formats;
 - Added the [Audio Formats](/en-us/audio-formats/) section: defined the primary lossless format, added a section on checksums;
 - Added the [Lyrics](/en-us/lyrics/) section: standardized formats for synchronized `.lrc` lyrics;

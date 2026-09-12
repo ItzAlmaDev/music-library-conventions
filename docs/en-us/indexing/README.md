@@ -24,8 +24,6 @@ It contains brief information about the release, specifically:
 
 - Total duration;
 
-- A note about extras (booklets, covers, lyrics) — when applicable;
-
 - Quality in the format: `<Source> [<Codec>/<Bit depth or bitrate and bitrate type>/<Sample rate>]: <Track numbers if necessary>`;
   - For example, for a lossless album: `WEB [FLAC/24-bit/96 kHz]`
   - For a lossy album: `WEB [AAC/256 kbps VBR/48 kHz]`
@@ -37,6 +35,8 @@ It contains brief information about the release, specifically:
     WEB [AAC/192 kbps VBR/48 kHz]: track 9
     CD [FLAC/16-bit/44.1 kHz]: track 15
     ```
+
+- A note about extras (booklets, covers, lyrics) — when applicable;
 
 - Tracklist;  
   **Note №1:** if the release has one disc, track numbers omit the disc number while keeping the leading zero, for example: `01`, `09`.  
@@ -69,10 +69,11 @@ Example of indexing:
 🎺 **Style:** J-Pop, Indie Pop, Jazz Pop
 🕰 **Total duration:** 1:21:18
 
-📦 **Extra:** External cover, lyrics, other covers
-
 🎧 **Quality:**
 🖥 WEB [FLAC/24-bit/96 kHz]
+
+📦 **Extra:**
+External cover, lyrics, other covers
 
 📝 **Tracklist:**
 `01`. Early morning, mailbox (早朝、郵便受け)
@@ -98,5 +99,6 @@ Example of indexing:
 `21`. Paddle (櫂)
 `22`. To the sea (海へ)
 
-📌 **Tags:** #web, #2026y, #2020s, #pop, #jpop, #indiepop, #jazzpop, #femalevocalist, #indie, #japanese
+📌 **Tags:**
+#web, #2026y, #2020s, #pop, #jpop, #indiepop, #jazzpop, #femalevocalist, #indie, #japanese
 ```

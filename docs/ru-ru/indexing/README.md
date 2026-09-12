@@ -22,8 +22,6 @@
 
 - Общая длительность;
 
-- Пометка об экстра материалах (буклеты, обложки, тексты) - при необходимости;
-
 - Качество в формате: `<Источник> [<Кодек>/<Битовая глубина или битрейт и тип битрейта>/<Частота дискретизации>]: <Номера песен - при необходимости>`;  
   - Например, для lossless альбома: `WEB [FLAC/24-bit/96 kHz]`  
   - Для lossy альбома: `WEB [AAC/256 kbps VBR/48 kHz]`  
@@ -35,6 +33,8 @@
     WEB [AAC/192 kbps VBR/48 kHz]: track 9
     CD [FLAC/16-bit/44.1 kHz]: track 15
     ```
+
+- Пометка об экстра материалах (буклеты, обложки, тексты) - при необходимости;
 
 - Треклист;  
   **Примечание №1:** если релиз содержит один диск, то номера треков пишутся без номера диска, но сохраняется лидирующий ноль, например: `01`, `09`.  
@@ -67,10 +67,11 @@
 🎺 **Style:** J-Pop, Indie Pop, Jazz Pop
 🕰 **Total duration:** 1:21:18
 
-📦 **Extra:** External cover, lyrics, other covers
-
 🎧 **Quality:**
 🖥 WEB [FLAC/24-bit/96 kHz]
+
+📦 **Extra:**
+External cover, lyrics, other covers
 
 📝 **Tracklist:**
 `01`. Early morning, mailbox (早朝、郵便受け)
@@ -96,5 +97,6 @@
 `21`. Paddle (櫂)
 `22`. To the sea (海へ)
 
-📌 **Tags:** #web, #2026y, #2020s, #pop, #jpop, #indiepop, #jazzpop, #femalevocalist, #indie, #japanese
+📌 **Tags:**
+#web, #2026y, #2020s, #pop, #jpop, #indiepop, #jazzpop, #femalevocalist, #indie, #japanese
 ```

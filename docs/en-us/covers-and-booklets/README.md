@@ -22,7 +22,9 @@ I embed only one cover per track, using the Front Cover picture type.
 
 ## Additional Covers
 
-Additional covers are alternative covers for songs that I want to keep. Consider the following example:
+Additional covers are an addition to the album or single.  
+For example: alternative single/album covers, materials from physical edition (front, back, medium), unreleased materials, posters.  
+Consider the following example:
 
 1. In 2019, the single Fly Out West is released and has the following cover:
 ![Single cover](single.png)
