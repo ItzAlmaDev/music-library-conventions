@@ -49,6 +49,10 @@ A typical file with the main tags filled looks like this:
 
 For subsequent tags, I also indicate whether they can be displayed and used for sorting in the audio players I use.
 
+- `Arranger` - arranger;  
+  **Display:** Poweramp (-), foobar2000 (+)  
+  **Sorting by this tag:** Poweramp (-), foobar2000 (+)
+
 - `Composer` — composer;  
   **Display:** Poweramp (+), foobar2000 (+)  
   **Sorting by this tag:** Poweramp (+), foobar2000 (+)
@@ -356,6 +360,14 @@ The final result looks like this:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="font-weight: bold">Arranger</td>
+      <td>-</td>
+      <td>+</td>
+      <td><code>ARRANGER</code></td>
+      <td><code>©arg</code></td>
+      <td colspan="2"><code>TXXX_ARRANGER</code></td>
+    </tr>
     <tr>
       <td style="font-weight: bold">Composer</td>
       <td>+</td>

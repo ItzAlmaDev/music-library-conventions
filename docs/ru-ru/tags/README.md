@@ -49,6 +49,10 @@
 
 Для последующих тегов я также указываю, могут ли они отображаться и использоваться для сортировки в аудиоплеерах, которые я использую.
 
+- `Arranger` - аранжировщик;  
+  **Отображение:** Poweramp (-), foobar2000 (+)  
+  **Сортировка по данному тегу:** Poweramp (-), foobar2000 (+)
+
 - `Composer` - композитор;  
   **Отображение:** Poweramp (+), foobar2000 (+)  
   **Сортировка по данному тегу:** Poweramp (+), foobar2000 (+)
@@ -356,6 +360,14 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="font-weight: bold">Arranger</td>
+      <td>-</td>
+      <td>+</td>
+      <td><code>ARRANGER</code></td>
+      <td><code>©arg</code></td>
+      <td colspan="2"><code>TXXX_ARRANGER</code></td>
+    </tr>
     <tr>
       <td style="font-weight: bold">Composer</td>
       <td>+</td>
