@@ -209,11 +209,15 @@ The final result looks like this:
 
 - `Encoded By` — the person or organization responsible for encoding or re-encoding the audio file;
 
+- `Engineer` - tags containing sound engineers, recording engineers, assistant engineers;
+
 - `First Played` — the date when the person first played the track;  
   **Format:** usually `YYYY-MM-DD HH:MM:SS`
 
 - `Last Played` — the date when the person last played the track;  
   **Format:** usually `YYYY-MM-DD HH:MM:SS`
+
+- `Lyricist` — the person who writes lyrics for the song;
 
 - `Mixer` — the person responsible for mixing the audio recording;
 
@@ -248,7 +252,7 @@ The final result looks like this:
 - `Work` - a distinct intellectual or artistic creation, which can be expressed in the form of one or more audio recordings. A work does not have to be musical. For example, a work could be a novel, play, poem or essay, later recorded as an audiobook;  
   **Note:** more details [here](https://musicbrainz.org/doc/Work).  
 
-- `Writer` — songwriter (the person who wrote the words for the song).
+- `Writer` — the person who creates musical compositions or writes lyrics for songs, or both.
 
 ## Tag Mapping Tables
 
