@@ -157,7 +157,7 @@ How it will look like:
   - `MusicBrainz Release Group ID` - tag containing the MBID for the release group;
   - `MusicBrainz Release ID` - tag containing the MBID for the release;
   - `MusicBrainz Track ID` - tag containing the MBID for the track;
-  - `MusicBrainz Work ID` - tag containing the MBID for the Work if a related work exists.
+  - `MusicBrainz Work ID` - tag containing the MBID for the Work if a related work exists.  
   **Display:** Poweramp (-), foobar2000 (+)  
   **Sorting by this tag:** Poweramp (-), foobar2000 (+)  
   **Note:** read more [here](https://musicbrainz.org/doc/MusicBrainz_Identifier), [here](https://picard-docs.musicbrainz.org/en/latest/variables/tags_basic.html) and [here](https://picard-docs.musicbrainz.org/en/latest/appendices/tag_mapping.html).  

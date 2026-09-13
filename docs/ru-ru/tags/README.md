@@ -157,7 +157,7 @@
   - `MusicBrainz Release Group ID` - тег, содержащий идентификатор MBID для группы релизов;
   - `MusicBrainz Release ID` - тег, содержащий идентификатор MBID для релиза;
   - `MusicBrainz Track ID` - тег, содержащий идентификатор MBID для трека;
-  - `MusicBrainz Work ID` - тег, содержащий идентификатор MBID для произведения, если существует соответствующее произведение.
+  - `MusicBrainz Work ID` - тег, содержащий идентификатор MBID для произведения, если существует соответствующее произведение.  
   **Отображение:** Poweramp (-), foobar2000 (+)  
   **Сортировка по данному тегу:** Poweramp (-), foobar2000 (+)  
   **Примечание:** читать подробнее [здесь](https://musicbrainz.org/doc/MusicBrainz_Identifier), [здесь](https://picard-docs.musicbrainz.org/en/latest/variables/tags_basic.html) и [здесь](https://picard-docs.musicbrainz.org/en/latest/appendices/tag_mapping.html).  

@@ -10,6 +10,10 @@
 - `Composer Sort` tag added to Specialized Tags [Tags](/en-us/tags/) section;
 - `Engineer`, `Lyricist` tags added to Excluded Tags [Tags](/en-us/tags/) section.
 
+### Fixed
+
+- Minor document corrections.
+
 ---
 
 ## 2026-09-12
