@@ -2,6 +2,12 @@
 
 # Changelog <!-- {docsify-ignore-all} -->
 
+## 2026-09-15
+
+### Changed
+
+- `Comment` tag is no longer used to store the artist, track, and release original names.
+
 ## 2026-09-13
 
 ### Added

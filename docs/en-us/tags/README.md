@@ -108,10 +108,6 @@ How it will look like:
 
 - `Comment` — comment;  
   **Display:** Poweramp (+), foobar2000 (+)  
-  **Sorting by this tag:** Poweramp (+), foobar2000 (+)  
-  **Note:** I store the original name of the artist, track, and release in this tag if it is not initially Russian/English.  
-  **Structure:** `[Original Artist Name] - [Original Track Title] ([Original Album Name])`  
-  **Example:** `ヨルシカ - 思想犯 (盗作)`
 
 - `Compilation` — a flag indicating that a track is part of a compilation;  
   **Sorting by this tag:** Poweramp (-), foobar2000 (pattern setup required)
