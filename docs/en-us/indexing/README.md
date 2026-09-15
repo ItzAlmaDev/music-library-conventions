@@ -39,9 +39,8 @@ It contains brief information about the release, specifically:
 - A note about extras (booklets, covers, lyrics) — when applicable;
 
 - Tracklist;  
-  **Note №1:** if the release has one disc, track numbers omit the disc number while keeping the leading zero, for example: `01`, `09`.  
+  **Note:** if the release has one disc, track numbers omit the disc number while keeping the leading zero, for example: `01`, `09`.  
   If the release has multiple discs, the disc number is included, for example: `1.02`, `2.13`.  
-  **Note №2:** if the original track title was in another language, for example Japanese, then it will be indicated in parentheses: `The flowers are also noisy (花も騒めく)`
 
 - Additional notes — when applicable;
 
@@ -70,34 +69,34 @@ Example of indexing:
 🕰 **Total duration:** 1:21:18
 
 🎧 **Quality:**
-🖥 WEB [FLAC/24-bit/96 kHz]
+WEB [FLAC/24-bit/96 kHz]
 
 📦 **Extra:**
 External cover, lyrics, other covers
 
 📝 **Tracklist:**
-01. Early morning, mailbox (早朝、郵便受け)
-02. Become a cloud (雲になる)
-03. The flowers are also noisy (花も騒めく)
-04. Devilishness (魔性)
-05. Play Sick (プレイシック)
-06. Post spring (ポスト春)
-07. Sun (太陽)
-08. Sunny (晴る)
-09. Forget it (忘れてください)
-10. Shura (修羅)
-11. Martian (火星人)
-12. Rubato (ルバート)
-13. Cremation (火葬)
-14. Aporia (アポリア)
-15. Snake (へび)
-16. Groan (うめき)
-17. Woodpecker (啄木鳥)
-18. Hitchcock (Re-Recording) (ヒッチコック (Re-Recording))
-19. Moonbath (月光浴)
-20. Plover (千鳥)
-21. Paddle (櫂)
-22. To the sea (海へ)
+1.  Early morning, mailbox
+2.  Become a cloud
+3.  The flowers are also noisy
+4.  Devilishness
+5.  Play Sick
+6.  Post spring
+7.  Sun
+8.  Sunny
+9.  Forget it
+10. Shura
+11. Martian
+12. Rubato
+13. Cremation
+14. Aporia
+15. Snake
+16. Groan
+17. Woodpecker
+18. Hitchcock
+19. Moonbath
+20. Plover
+21. Paddle
+22. To the sea
 
 📌 **Tags:**
 #web, #2026y, #2020s, #pop, #jpop, #indiepop, #jazzpop, #femalevocalist, #indie, #japanese

@@ -6,7 +6,8 @@
 
 ### Changed
 
-- `Comment` tag is no longer used to store the artist, track, and release original names.
+- `Comment` tag is no longer used to store the artist, track, and release original names in another language;
+- Original names in another language are no longer indicated in parentheses in tracklist in the [Indexing](/en-us/indexing/) section.
 
 ## 2026-09-13
 
